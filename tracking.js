@@ -5,7 +5,7 @@
  * commit, and Vercel redeploys automatically.
  * Find it in Meta Business Suite > Events Manager > your Pixel > Settings.
  */
-var META_PIXEL_ID = '';
+var META_PIXEL_ID = '1544970890037752';
 
 (function () {
   var on = /^\d{8,20}$/.test(META_PIXEL_ID);
